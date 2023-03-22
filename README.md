@@ -16,7 +16,7 @@ I am an electrical and electronics engineer at Rhein-Waal university of Applied 
    </p>
 
 ---
-<!--
+
 **TangatBaktybergen/TangatBaktybergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about PCB manufacturing and programming Arduino/ESP/Raspberry Pi.
 - 📫 How to reach me: Tangat.Baktybergen@gmail.com
 - ⚡ Looking for: Internship semester or student work in IoT projects.
--->
+
 
 
 
