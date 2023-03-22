@@ -1,7 +1,7 @@
 # Tangat Baktybergen 
 
 **`Creative problem solver / Analytical / Innovative`**
-I am an electrical and electronics engineer 
+I am an electrical and electronics engineer at Rhein-Waal university of Applied Sciences. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/TangatBaktybergen?sub_confirmation=1">
