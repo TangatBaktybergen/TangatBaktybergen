@@ -1,7 +1,8 @@
 # Tangat Baktybergen 
 
 **`Creative problem solver / Analytical / Innovative`**
-I am an electrical and electronics engineer at Rhein-Waal university of Applied Sciences. 
+
+I am an electrical and electronics engineer at Rhein-Waal university of Applied Sciences. I am interested in wireless communication such as BLE, Zigbee, Thread,NFC and RFID. These knowledge helps to dig in the world of IoT and Matter standard. Other than that , I like to butcher electronics and look in how it is built. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/TangatBaktybergen?sub_confirmation=1">
@@ -20,14 +21,13 @@ I am an electrical and electronics engineer at Rhein-Waal university of Applied 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on "Smart shopping cart", "GPS animal tracker", "Smart Home automation with Matter" and "LaserCube UI for bicycle"
+- 🌱 I’m currently learning wireless communcation protocols and starndards. Refreshing my knowledge about C/C++/Java and learning Python.
+- 👯 I’m looking to collaborate on IoT and wireless communication included projects.
+- 🤔 I’m looking for help with Matter standard.
+- 💬 Ask me about PCB manufacturing and programming Arduino/ESP/Raspberry Pi.
+- 📫 How to reach me: Tangat.Baktybergen@gmail.com
+- ⚡ Looking for: Internship semester or student work in IoT projects.
 -->
 
 <h3 align="left">Connect with me:</h3>
