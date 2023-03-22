@@ -1,6 +1,6 @@
 # Tangat Baktybergen 
 
-** Creative problem solver / Analytical / Innovative **
+**`Creative problem solver / Analytical / Innovative**
 <!--
 **TangatBaktybergen/TangatBaktybergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
