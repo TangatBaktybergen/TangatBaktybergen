@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Looking for: Internship semester or student work in IoT projects.
 -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://il.linkedin.com/in/dudu-gvili-478167203" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" alt="dudu gvili" height="40" width="40" /></a>
 
 </p>
 
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudugvili" alt="dudugvili" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tangatbaktybergen&label=Profile%20views&color=0e75b6&style=flat" alt="tangatbaktybergen" /> </p>
 
