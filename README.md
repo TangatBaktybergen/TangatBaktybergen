@@ -2,7 +2,8 @@
 
 **`Creative problem solver / Analytical / Innovative`**
 
-I am an electrical and electronics engineer at Rhein-Waal university of Applied Sciences. I am interested in wireless communication such as BLE, Zigbee, Thread,NFC and RFID. These knowledge helps to dig in the world of IoT and Matter standard. Other than that , I like to butcher electronics and look in how it is built. 
+I am an electrical and electronics engineer at Rhein-Waal university of Applied Sciences. 
+I am interested in wireless communication such as BLE, Zigbee, Thread,NFC and RFID. These knowledge helps to dig in the world of IoT and Matter standard. Other than that , I like to butcher electronics and look in how it is built. 
 
 
 ---
@@ -13,7 +14,7 @@ I am an electrical and electronics engineer at Rhein-Waal university of Applied 
 - 🤔 I’m looking for help with Matter standard.
 - 💬 Ask me about PCB manufacturing and programming Arduino/ESP/Raspberry Pi.
 - 📫 How to reach me: Tangat.Baktybergen@gmail.com
-- ⚡ Looking for: Internship semester or student work in IoT projects.
+- ⚡ Looking for: Proects in Automotive, IoT and VLSI domains.
 
 
 
