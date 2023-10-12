@@ -7,10 +7,6 @@ I am an electrical and electronics engineer at Rhein-Waal university of Applied 
 
 ---
 
-**TangatBaktybergen/TangatBaktybergen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on "Smart shopping cart", "GPS animal tracker", "Smart Home automation with Matter" and "LaserCube UI for bicycle"
 - 🌱 I’m currently learning wireless communcation protocols and starndards. Refreshing my knowledge about C/C++/Java and learning Python.
 - 👯 I’m looking to collaborate on IoT and wireless communication included projects.
